@@ -1,0 +1,5 @@
+# Compiled assets
+*.bak
+.sass-cache/
+library/assets/
+node_modules/
