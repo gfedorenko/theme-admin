@@ -9,7 +9,7 @@ module.exports = function(grunt) {
           'library/assets/vendor/bootstrap/bootstrap.css': 'node_modules/bootstrap/scss/bootstrap.scss',
           'library/assets/vendor/font-awesome/font-awesome.css': 'node_modules/font-awesome/scss/font-awesome.scss',
           'library/assets/vendor/tether/tether.css': 'node_modules/tether/src/css/tether.sass',
-          'library/assets/vendor/css/style.css': 'stylesheets/style.scss'
+          'library/assets/css/style.css': 'stylesheets/style.scss'
         }
       }
     },
